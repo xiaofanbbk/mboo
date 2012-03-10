@@ -1,0 +1,76 @@
+bbk1109	T1	Kitor	NULL	bbk1110	Chapter 01-Oracle Architectural 	Oracle
+bbk1110	T1	Kitor	bbk1109	bbk1112	Chapter 01-Oracle Architectural 	Oracle
+bbk1112	T1	Kitor	bbk1110	bbk1114	Chapter 01-Oracle Architectural 	Oracle
+bbk1114	T1	Kitor	bbk1112	bbk1115	Chapter 01-Oracle Architectural 	Oracle
+bbk1115	T1	Kitor	bbk1114	bbk1148	Chapter 02-Getting Started with the Oracle Server	Oracle
+bbk1148	T1	Kitor	bbk1115	bbk1149	Chapter 03-Managing an Oracle Instance	Oracle
+bbk1149	T1	Kitor	bbk1148	bbk1150	Chapter 03-Managing an Oracle Instance	Oracle
+bbk1150	T1	Kitor	bbk1149	bbk1151	Chapter 03-Managing an Oracle Instance	Oracle
+bbk1151	T1	Kitor	bbk1150	bbk1152	Chapter 03-Managing an Oracle Instance	Oracle
+bbk1152	T1	Kitor	bbk1151	bbk1153	Chapter 03-Managing an Oracle Instance	Oracle
+bbk1153	T1	Kitor	bbk1152	bbk1154	Chapter 03-Managing an Oracle Instance	Oracle
+bbk1154	T1	Kitor	bbk1153	bbk1161	Chapter 03-Managing an Oracle Instance	Oracle
+bbk1161	T1	Kitor	bbk1154	bbk1162	Chapter 04-Creating a Database	Oracle
+bbk1162	T1	Kitor	bbk1161	bbk1163	Chapter 04-Creating a Database	Oracle
+bbk1163	T1	Kitor	bbk1162	bbk1164	Chapter 04-Creating a Database	Oracle
+bbk1164	T1	Kitor	bbk1163	bbk1165	Chapter 04-Creating a Database	Oracle
+bbk1165	T1	Kitor	bbk1164	bbk1166	Chapter 04-Creating a Database	Oracle
+bbk1166	T1	Kitor	bbk1165	bbk1167	Chapter 05-Using Data Dictionary and Dynamic Performance	Oracle
+bbk1167	T1	Kitor	bbk1166	bbk1168	Chapter 05-Using Data Dictionary and Dynamic Performance	Oracle
+bbk1168	T1	Kitor	bbk1167	bbk1169	Chapter 06-Maintaining the Control File	Oracle
+bbk1169	T1	Kitor	bbk1168	bbk1170	Chapter 06-Maintaining the Control File	Oracle
+bbk1170	T1	Kitor	bbk1169	bbk1171	Chapter 07-Maintaining Online Redo Log Files	Oracle
+bbk1171	T1	Kitor	bbk1170	bbk1179	Chapter 07-Maintaining Online Redo Log Files	Oracle
+bbk1179	T1	Kitor	bbk1171	bbk1180	Chapter 07-Maintaining Online Redo Log Files	Oracle
+bbk1180	T1	Kitor	bbk1179	bbk1187	Chapter 07-Maintaining Online Redo Log Files	Oracle
+bbk1187	T1	Kitor	bbk1180	bbk1188	Chapter 08-Maintaining Tablespace and Data files	Oracle
+bbk1188	T1	Kitor	bbk1187	bbk1263	Chapter 08-Maintaining Tablespace and Data files	Oracle
+bbk1263	T1	Kitor	bbk1188	bbk1264	Chapter 08-Maintaining Tablespace and Data files	Oracle
+bbk1264	T1	Kitor	bbk1263	bbk1281	Chapter 08-Maintaining Tablespace and Data files	Oracle
+bbk1281	T1	Kitor	bbk1264	bbk1353	Chapter 08-Maintaining Tablespace and Data files	Oracle
+bbk1353	T1	Kitor	bbk1281	bbk1354	Chapter 09-Storage Structure and Relationships	Oracle
+bbk1354	T1	Kitor	bbk1353	bbk1366	Chapter 09-Storage Structure and Relationships	Oracle
+bbk1366	T1	Kitor	bbk1354	bbk1367	Chapter 09-Storage Structure and Relationships	Oracle
+bbk1367	T1	Kitor	bbk1366	bbk1382	Chapter 09-Storage Structure and Relationships	Oracle
+bbk1382	T1	Kitor	bbk1367	bbk1384	Chapter 09-Storage Structure and Relationships	Oracle
+bbk1384	T1	Kitor	bbk1382	bbk1385	Chapter 10-Managing Undo Data	Oracle
+bbk1385	T1	Kitor	bbk1384	bbk1404	Chapter 10-Managing Undo Data	Oracle
+bbk1404	T1	Kitor	bbk1385	bbk1405	Chapter 10-Managing Undo Data	Oracle
+bbk1405	T1	Kitor	bbk1404	bbk1406	Chapter 10-Managing Undo Data	Oracle
+bbk1406	T1	Kitor	bbk1405	bbk1663	Chapter 10-Managing Undo Data	Oracle
+bbk1663	T1	Kitor	bbk1406	bbk1664	Chapter 11-Managing Tables	Oracle
+bbk1664	T1	Kitor	bbk1663	bbk1665	Chapter 11-Managing Tables	Oracle
+bbk1665	T1	Kitor	bbk1664	bbk1666	Chapter 11-Managing Tables	Oracle
+bbk1666	T1	Kitor	bbk1665	bbk1667	Chapter 11-Managing Tables	Oracle
+bbk1667	T1	Kitor	bbk1666	bbk1675	Chapter 11-Managing Tables	Oracle
+bbk1675	T1	Kitor	bbk1667	bbk1676	Chapter 11-Managing Tables	Oracle
+bbk1676	T1	Kitor	bbk1675	bbk2347	Chapter 11-Managing Tables	Oracle
+bbk2347	T1	Kitor	bbk1676	bbk2348	Chapter 12-Managing Indexes	Oracle
+bbk2348	T1	Kitor	bbk2347	bbk2360	Chapter 12-Managing Indexes	Oracle
+bbk2360	T1	Kitor	bbk2348	bbk2361	Chapter 12-Managing Indexes	Oracle
+bbk2361	T1	Kitor	bbk2360	bbk2363	Chapter 12-Managing Indexes	Oracle
+bbk2363	T1	Kitor	bbk2361	bbk2364	Chapter 13-Maintaining Data Integrity	Oracle
+bbk2364	T1	Kitor	bbk2363	bbk2369	Chapter 13-Maintaining Data Integrity	Oracle
+bbk2369	T1	Kitor	bbk2364	bbk2380	Chapter 13-Maintaining Data Integrity	Oracle
+bbk2380	T1	Kitor	bbk2369	bbk2381	Chapter 13-Maintaining Data Integrity	Oracle
+bbk2381	T1	Kitor	bbk2380	bbk2382	Chapter 13-Maintaining Data Integrity	Oracle
+bbk2382	T1	Kitor	bbk2381	bbk2383	Chapter 13-Maintaining Data Integrity	Oracle
+bbk2383	T1	Kitor	bbk2382	bbk2384	Chapter 14-Managing Password Security & Resikyrces	Oracle
+bbk2384	T1	Kitor	bbk2383	bbk2385	Chapter 15-Managing Users	Oracle
+bbk2385	T1	Kitor	bbk2384	bbk2386	Chapter 15-Managing Users	Oracle
+bbk2386	T1	Kitor	bbk2385	bbk2387	Chapter 16-Managing Privileges	Oracle
+bbk2387	T1	Kitor	bbk2386	bbk2420	Chapter 16-Managing Privileges	Oracle
+bbk2420	T1	Kitor	bbk2387	bbk2421	Chapter 16-Managing Privileges	Oracle
+bbk2421	T1	Kitor	bbk2420	bbk2425	Chapter 17-Managing Roles	Oracle
+bbk2425	T1	Kitor	bbk2421	bbk2426	Chapter 18-Auditing	Oracle
+bbk2426	T1	Kitor	bbk2425	bbk2500	Chapter 18-Auditing	Oracle
+bbk2500	T1	Kitor	bbk2426	bbk2501	Chapter 19-Loading Data into a Database	Oracle
+bbk2501	T1	Kitor	bbk2500	bbk2502	Chapter 19-Loading Data into a Database	Oracle
+bbk2502	T1	Kitor	bbk2501	bbk2503	Chapter 19-Loading Data into a Database	Oracle
+bbk2503	T1	Kitor	bbk2502	bbk2520	Chapter 19-Loading Data into a Database	Oracle
+bbk2520	T1	Kitor	bbk2503	bbk2521	Chapter 20-Using Globalization Support	Oracle
+bbk2521	T1	Kitor	bbk2520	bbk2522	Chapter 20-Using Globalization Support	Oracle
+bbk2522	T1	Kitor	bbk2521	bbk2523	Chapter 20-Using Globalization Support	Oracle
+bbk2523	T1	Kitor	bbk2522	bbk2527	Chapter 20-Using Globalization Support	Oracle
+bbk2527	T1	Kitor	bbk2523	bbk2528	Chapter 20-Using Globalization Support	Oracle
+bbk2528	T1	Kitor	bbk2527	NULL	Chapter 20-Using Globalization Support	Oracle
